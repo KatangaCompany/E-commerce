@@ -16,9 +16,6 @@ export default function Home() {
           Welcome to ecommerce ❤️ T_T
         </h1>
 
-        <p className={styles.description}>
-        </p>
-
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>Documentation &rarr;</h2>
